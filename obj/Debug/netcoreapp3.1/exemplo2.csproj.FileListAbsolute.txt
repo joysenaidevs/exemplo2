@@ -1,0 +1,13 @@
+C:\Users\nilma\Desktop\exemplo2\bin\Debug\netcoreapp3.1\exemplo2.exe
+C:\Users\nilma\Desktop\exemplo2\bin\Debug\netcoreapp3.1\exemplo2.deps.json
+C:\Users\nilma\Desktop\exemplo2\bin\Debug\netcoreapp3.1\exemplo2.runtimeconfig.json
+C:\Users\nilma\Desktop\exemplo2\bin\Debug\netcoreapp3.1\exemplo2.runtimeconfig.dev.json
+C:\Users\nilma\Desktop\exemplo2\bin\Debug\netcoreapp3.1\exemplo2.dll
+C:\Users\nilma\Desktop\exemplo2\bin\Debug\netcoreapp3.1\exemplo2.pdb
+C:\Users\nilma\Desktop\exemplo2\obj\Debug\netcoreapp3.1\exemplo2.csprojAssemblyReference.cache
+C:\Users\nilma\Desktop\exemplo2\obj\Debug\netcoreapp3.1\exemplo2.AssemblyInfoInputs.cache
+C:\Users\nilma\Desktop\exemplo2\obj\Debug\netcoreapp3.1\exemplo2.AssemblyInfo.cs
+C:\Users\nilma\Desktop\exemplo2\obj\Debug\netcoreapp3.1\exemplo2.csproj.CoreCompileInputs.cache
+C:\Users\nilma\Desktop\exemplo2\obj\Debug\netcoreapp3.1\exemplo2.dll
+C:\Users\nilma\Desktop\exemplo2\obj\Debug\netcoreapp3.1\exemplo2.pdb
+C:\Users\nilma\Desktop\exemplo2\obj\Debug\netcoreapp3.1\exemplo2.genruntimeconfig.cache
